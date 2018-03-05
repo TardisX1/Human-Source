@@ -1,0 +1,6 @@
+Employee_id,Course_id,Course_name,Score
+1,1,communication,90
+1123,2,english,97
+1123,3,management,60
+1125,2,english,79
+1124,1,,

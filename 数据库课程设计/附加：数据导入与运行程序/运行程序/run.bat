@@ -1,0 +1,1 @@
+java -jar -Xmn600m -Xms1200m -Xmx1200m 人力资源管理系统.jar

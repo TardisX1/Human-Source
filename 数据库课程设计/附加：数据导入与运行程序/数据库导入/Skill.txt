@@ -1,0 +1,4 @@
+Skill_id,Skill_name,Skill_detail
+1,computer,
+2,manager,
+3,english,

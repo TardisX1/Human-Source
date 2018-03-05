@@ -1,0 +1,4 @@
+Employee_id,Late,Absence,Fine
+1,1,,50
+1123,2,3,130
+1124,5,3,280

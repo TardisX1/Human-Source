@@ -1,0 +1,6 @@
+Employee_id,Skill_id,Skill_name,EXP
+1,1,computer,70
+1123,1,computer,80
+1123,2,manager,50
+1125,3,english,77
+1124,2,,

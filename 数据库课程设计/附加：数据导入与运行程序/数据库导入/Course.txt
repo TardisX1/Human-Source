@@ -1,0 +1,4 @@
+Course_id,Course_name,Course_detail
+1,communication,
+2,english,
+3,management,

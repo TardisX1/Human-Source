@@ -1,0 +1,11 @@
+Employee_id,Password,Sex,Name,Position_rank,Branch_id,Position_id,Email,Phone,Hiredate,Service_state
+0,0,,,0,,,,,,
+01,01,,,0,,,,,,
+1,1,,,1,,,,,,
+1123,112358,,,2,,,,,,
+1124,112358,,,2,,,,,,
+1125,112358,,,2,,,,,,
+3,3,,test,3,,,111,,,
+t1,aa,,,5,,,,,,
+t2,bb,,,5,,,,,,
+t3,cc,,i,5,,,,,,

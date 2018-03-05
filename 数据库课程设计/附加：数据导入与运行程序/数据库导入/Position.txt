@@ -1,0 +1,8 @@
+Position_id,Position_rank,Position_name,Branch_id
+0,0,管理员,
+1,1,总经理,
+2,2,部门经理,
+3,3,组长,
+4,4,普通员工,
+5,5,试用员工,
+6,6,test2,
